@@ -1,4 +1,4 @@
-📚 Online Book Store with Recommendation System
+📚 Online Book Store with Recommendation System using collaborative filtering
 ⚠ THE AUTHOR IS NO LONGER UPDATING THIS REPOSITORY ⚠
 
 📖 About This Project
